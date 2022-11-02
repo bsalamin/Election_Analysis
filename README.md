@@ -29,7 +29,7 @@ The goal of this analysis was to use Python to read a .csv file containing votin
 
 
 ## Conclusion
-The election commission should use the script to analyze data from future elections. 
+The election commission should use the script to analyze data from future elections.  
 
 The script could be modified to iterate through the header row so as to be able to adjust the analysis for different dataset formats.
 
