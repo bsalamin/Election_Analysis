@@ -29,8 +29,6 @@ The goal of this analysis was to use Python to read a .csv file containing votin
 
 
 ## Conclusion
-The election commission should use the script to analyze data from future elections.  
-
-The script could be modified to iterate through the header row so as to be able to adjust the analysis for different dataset formats.
-
-The script could also be modified to analyze other data associated with elections – like individual voter information, voting location, the dates and times that ballots were cast, and ballot type (e.g., mail-in, paper, electronic).
+The election commission should use the script to analyze data from future elections. Also:
+* The script could be modified to iterate through the header row so as to be able to adjust the analysis for different dataset formats.
+* The script could also be modified to analyze other data associated with elections – like individual voter information, voting location, the dates and times that ballots were cast, and ballot type (e.g., mail-in, paper, electronic).
